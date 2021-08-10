@@ -1,7 +1,7 @@
 # US-Accidents
 ## Exploratory Data Analysis 
 
-Performed data analysis and created data visualizations using various libraries - pandas, seaborn, folium
+Performed data analysis and created data visualizations using various libraries - pandas, numpy, seaborn, folium, matplotlib
 
 Can find different versions of this notebook [here](https://jovian.ai/jadhavkunal1999/us-accidents-analysis).
 
